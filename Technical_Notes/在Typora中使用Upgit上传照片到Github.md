@@ -49,7 +49,7 @@
 
 **报错情况**
 
-<img src="/Users/meizi/Library/Application Support/typora-user-images/image-20221002215045696.png" alt="image-20221002215045696" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/MeiZia/picture/master/2022/10/upgit_20221002_1664716134.png" alt="image-20221002215045696" style="zoom:67%;" />
 
 **解决方法：修改upgit的权限**
 
@@ -61,7 +61,7 @@
 
 **解决结果**
 
-<img src="/Users/meizi/Library/Application Support/typora-user-images/image-20221002215356519.png" alt="image-20221002215356519" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/MeiZia/picture/master/2022/10/upgit_20221002_1664716143.png" alt="image-20221002215356519" style="zoom:67%;" />
 
 **Tips：**当然别忘记在安全与隐私中允许运行upgit
 
@@ -70,7 +70,7 @@
 1. Typora->偏好设置->图像
 2. 上传服务设定->自定义命令，将upgit的路径填写到命令中
 
-![image-20221002215643127](/Users/meizi/Library/Application Support/typora-user-images/image-20221002215643127.png)
+![image-20221002215643127](https://raw.githubusercontent.com/MeiZia/picture/master/2022/10/upgit_20221002_1664716150.png)
 
 3. 然后在`Typora`中插入图片，点击右键，上传图片。就可以把图片上传到`config.toml`中设置的图床了。
 
