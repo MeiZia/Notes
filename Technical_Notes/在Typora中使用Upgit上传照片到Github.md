@@ -63,7 +63,7 @@
 
 <img src="https://raw.githubusercontent.com/MeiZia/picture/master/2022/10/upgit_20221002_1664716143.png" alt="image-20221002215356519" style="zoom:67%;" />
 
-**Tips：**当然别忘记在安全与隐私中允许运行upgit
+**Tips** : 当然别忘记在安全与隐私中允许运行upgit
 
 # Setting Typora
 
